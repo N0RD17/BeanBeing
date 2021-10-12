@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @BeanBeing but you can just call me Bean
-- 👀 I’m interested in: programming/game development
-- 🌱 I’m currently learning: Python, Godot, some-what some C++ but I'm still learning Python, and Pygame just to understand Game dev without an engine
-- 💞️ I’m looking to collaborate on: sorry, I do not like collaborating...
-- 📫 How to reach me: uh not sure yet lol
+- I'm currently learning Python and Pygame.
+- Trying to find a way to remember every function and become better with critical thinking.
+- I've been making apps, games, and other such thing that I should and sometimes might put them here.
+
+- Tools I use to make assets and code games:{
+VSCode,
+Asesprite,
+Boscacelio (if anyone knows a better music-making program; let me know),
+Tiled,
+and a random sound effect generator.
+}
 
 <!---
 BeanBeing/BeanBeing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
