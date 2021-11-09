@@ -1,13 +1,14 @@
-- I'm currently learning Python and Pygame.
+- I'm currently learning HTML, CSS, JavaScript and Game Engine Godot.
 - Trying to find a way to remember every function and become better with critical thinking.
 - I've been making apps, games, and other such thing that I should and sometimes might put them here.
 
-- Tools I use to make assets and code games:{
+- Tools I use to make assets and code games{
 VSCode,
 Asesprite,
 Boscacelio (if anyone knows a better music-making program; let me know),
 Tiled,
 and a random sound effect generator.
+Godot Game Engine
 }
 
 <!---
