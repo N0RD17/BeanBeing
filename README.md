@@ -1,4 +1,4 @@
-- Learning C++
+- Learning Rust
 - Trying to find a way to remember every function and become better with critical thinking.
 - I've been making apps, games, and other such thing that I should and sometimes might put them here.
 
