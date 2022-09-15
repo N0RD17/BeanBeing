@@ -1,11 +1,12 @@
-- Learning Rust
+- Learning C++
 - Trying to find a way to remember every function and become better with critical thinking.
 - I've been making apps, games, and other such thing that I should and sometimes might put them here.
 
-- Tools I use to make assets and code games{
-VSCode,
-Asesprite,
-Boscacelio (if anyone knows a better music-making program; let me know),
+void ToolsIUseToMakeStuff(){
+  VIM_to_code;
+  Asesprite_sprites_art;
+  Krita_for_nonpixel_art;
+  Boscacelio_for_music;
 }
 
 <!---
