@@ -1,4 +1,4 @@
-Programming-language: C++
+Programming-language: C/C++
 
 Where I write code: Emacs
 
